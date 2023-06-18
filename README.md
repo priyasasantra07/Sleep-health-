@@ -1,5 +1,8 @@
 # Sleep-health-
-This is an interactive dashboard in Power BI. This includes insights:
+This is an interactive dashboard in Power BI. 
+The data has been collected from Kaggle. The dataset has been cleaned and transformed using power BI power query. It has 375 data.
+
+This includes insights:
 •	Women are more overweight than men. 
 •	Women have a normal sleep pattern. 
 •	Men suffer from insomnia while women suffer from sleep apnea. 
